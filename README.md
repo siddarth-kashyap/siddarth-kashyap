@@ -38,12 +38,12 @@
 #### 1. The Cloud Resume Challenge (AWS + Terraform)
 - **Architecture:** S3, CloudFront, API Gateway, AWS Lambda, DynamoDB
 - **Automation:** 100% provisioned via Terraform, deployed automatically via GitHub Actions.
-- [🔗 View Repository](Link to your repo)
+- <a href="https://github.com/siddarth-kashyap/Cloud_Project">[🔗 View Repository]</a>
 
 #### 2. Scalable E-Commerce Microservices
 - **Architecture:** 10-tier microservices application running on Amazon EKS (Elastic Kubernetes Service).
 - **Automation:** Continuous deployment managed via ArgoCD (GitOps).
-- [🔗 View Repository](Link to your repo)
+- <a href="www.google.com">[🔗 View Repository]</a>
 
 ---
 
