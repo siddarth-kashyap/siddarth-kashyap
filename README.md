@@ -43,7 +43,7 @@
 #### 2. Scalable E-Commerce Microservices
 - **Architecture:** 10-tier microservices application running on Amazon EKS (Elastic Kubernetes Service).
 - **Automation:** Continuous deployment managed via ArgoCD (GitOps).
-- <a href="www.google.com">[🔗 View Repository]</a>
+- <a href="https://github.com/siddarth-kashyap/E-Commerce-Microservices-Kubernetes-ArgoCD-">[🔗 View Repository]</a>
 
 ---
 
